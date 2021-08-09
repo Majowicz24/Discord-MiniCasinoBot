@@ -13,4 +13,4 @@ A Discord Bot for playing your favorite casino games. Select which game you want
   * Run *startup.py* from the directory where you stored the downloaded files in your terminal 
   
 # 2. Once the bot is running in the terminal, make sure it is online in your Discord server
-  *Use *-tips* in chat for command help  
+  * Use *-tips* in chat for command help  
