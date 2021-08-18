@@ -13,4 +13,14 @@ A Discord Bot for playing your favorite casino games. Select which game you want
   * Run *startup.py* from the directory where you stored the downloaded files in your terminal 
   
 # 2. Once the bot is running in the terminal, make sure it is online in your Discord server
-  * Type *-tips* in Discord chat for command help  
+  * Use the bot commands in Discord chat in order to run:
+    * Type *-tips* for command help  
+    * Type *-menu* for the game menu, react to the menu's reactions to choose a game
+    * Type *-reset* to leave the current game and go back to the menu
+
+## Bot Games and How to Play:
+* LRC - 
+* Coinflip - Select heads or tails and if the coin flips on the one you chose, you win!
+* Simple Blackjack - Traditional blackjack..without doubling down or insurance. 
+* Slots - 
+* Race - 
