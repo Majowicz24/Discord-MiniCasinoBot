@@ -51,7 +51,7 @@ async def turnswap(ctx):
         await ctx.send('You are out of chips...')
 
     if turn == player1:
-        chipsp4 = chipsp5 + rotatedL
+        chipsp5 = chipsp5 + rotatedL
         chipsp1 = chips
         turn = player2
         await ctx.send("Roll the dice, <@" + str(player2.id) + ">.")       
